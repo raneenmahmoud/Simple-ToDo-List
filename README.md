@@ -2,7 +2,7 @@
 ## Deployment: 
 [To Do List](https://raneenmahmoud.github.io/Simple-ToDo-List/index.html)
 ### Version of To Do List:
-![old version ](assests/videos/TO DO List.mp4)
+assests/Videos/TO%20DO%20List.mp4
 ## Languages
 - HTML
 * CSS
